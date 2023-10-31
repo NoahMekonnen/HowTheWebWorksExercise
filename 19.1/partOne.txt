@@ -1,0 +1,25 @@
+PartOne
+
+Http stands for hypertext transfer protocol. It is the protocol used between the communication of browsers and servers.
+Urls stand for Uniform resource locators.
+DNS stands for Domain name system. It is the last resort for your browser to find an ip address for a given hostname.
+Query strings are means to provide additional information to Urls.
+2 Http verbs are GET and POST. GET gets some data from a server and POST sends some data to a server. An http request is when a client tries to receive something from a server using the http protocol whereas a http response is when the server which has been given some request from the client responds based on the request.
+Headers are additional pieces of information that can be put in a request or a response. One example of a request header is the language you want your browser in. An example of a response header is the last time browser has been modified.
+When “http://somesite.com/some/page.html” is typed into a browser an http request is made to a server from the browser. The browser looks for the ip address associated with the hostname, somesite.com(it may search for the ip address in the DNS). It then talks to some web server program on the server by using "some/page.html". The browser then makes a response. It makes a DOM with the information given and makes HTTP requests for any  otehr information it needs.
+
+Part Two
+
+Pirate Jokes:
+What does a pirate pay for his corn? A buccaneer!
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
+What did the pirate say on his 80th birthday? Aye Matey!
+Why are pirates called pirates? Because they arrr!
+Why do pirates not know the alphabet? They always get stuck at "C".
+
+Ip Adresses:  172.67.198.173   104.21.66.15
+
+Part Three
+
+After changing the method of the form to POST.
+
